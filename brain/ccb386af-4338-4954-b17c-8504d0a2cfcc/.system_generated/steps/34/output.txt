@@ -1,0 +1,26 @@
+
+The command exited with code 0.
+Output:
+
+
+    Directory: C:\Users\AMAN\.gemini\antigravity\scratch\customer-sentiment-dashboard
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        08-10-2026  11:33 PM                data                                                                 
+-a----        08-10-2026  11:37 PM          15549 app.py                                                               
+-a----        08-10-2026  11:37 PM           8302 README.md                                                            
+-a----        08-10-2026  11:35 PM             73 requirements.txt                                                     
+-a----        08-10-2026  11:36 PM           3418 sentiment_analysis.py                                                
+
+
+    Directory: C:\Users\AMAN\.gemini\antigravity\scratch\customer-sentiment-dashboard\data
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        08-10-2026  11:34 PM          37336 customer_reviews.csv                                                 
+
+
+

@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Test positive: ('Positive', 0.658)
+Test negative: ('Negative', -0.771)
+Test neutral: ('Positive', 0.226)
+

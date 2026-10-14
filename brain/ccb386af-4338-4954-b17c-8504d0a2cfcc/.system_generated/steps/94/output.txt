@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+['if df["Rating"].dropna().any():', 'olumns and df["Date"].dropna().any():', 'filtered_df["Rating"].dropna().any()', 'filtered_df["Rating"].dropna().any():', 'd filtered_df["Date"].dropna().any():']
+

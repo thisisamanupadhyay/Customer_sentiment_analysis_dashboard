@@ -1,0 +1,26 @@
+The following changes were made by the replace_file_content tool to: C:\Users\AMAN\.gemini\antigravity\scratch\customer-sentiment-dashboard\sentiment_analysis.py. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -21,6 +21,20 @@
+ # Initialize the VADER sentiment intensity analyzer
+ _analyzer = SentimentIntensityAnalyzer()
+ 
++# Enhance lexicon with a few common e-commerce review terms
++_CUSTOM_REVIEW_LEXICON = {
++    "incredible": 2.8,
++    "incredibly": 2.3,
++    "durable": 2.0,
++    "sturdy": 2.1,
++    "flimsy": -2.2,
++    "scratchy": -1.9,
++    "unresponsive": -2.1,
++    "overheats": -2.3,
++    "overheating": -2.3,
++}
++_analyzer.lexicon.update(_CUSTOM_REVIEW_LEXICON)
++
+ 
+ def analyze_sentiment(text: str) -> tuple[str, float]:
+     """
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

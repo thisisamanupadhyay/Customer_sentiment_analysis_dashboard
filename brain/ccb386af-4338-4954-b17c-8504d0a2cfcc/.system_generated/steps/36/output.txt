@@ -1,0 +1,17 @@
+Task: ccb386af-4338-4954-b17c-8504d0a2cfcc/task-14
+Status: RUNNING
+Log: C:\Users\AMAN\.gemini\antigravity\brain\ccb386af-4338-4954-b17c-8504d0a2cfcc\.system_generated\tasks\task-14.log
+Log output:
+<truncated 136 lines>
+4.26.0-py3-none-any.whl (90 kB)
+Using cached six-1.17.0-py2.py3-none-any.whl (11 kB)
+Downloading urllib3-2.8.0-py3-none-any.whl (135 kB)
+Using cached colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Downloading attrs-26.1.0-py3-none-any.whl (67 kB)
+Downloading jsonschema_specifications-2025.9.1-py3-none-any.whl (18 kB)
+Downloading markupsafe-3.0.4-cp312-cp312-win_amd64.whl (14 kB)
+Downloading referencing-0.37.0-py3-none-any.whl (26 kB)
+Downloading rpds_py-2026.9.1-cp312-cp312-win_amd64.whl (222 kB)
+Installing collected packages: websockets, watchdog, urllib3, tzdata, typing-extensions, toml, six, rpds-py, regex, python-multipart, pyarrow, protobuf, pillow, packaging, numpy, narwhals, MarkupSafe, itsdangerous, idna, httptools, h11, defusedxml, colorama, cloudpickle, click, charset_normalizer, certifi, attrs, uvicorn, tqdm, requests, referencing, python-dateutil, plotly, joblib, jinja2, anyio, starlette, pydeck, pandas, nltk, jsonschema-specifications, jsonschema, altair, streamlit
+
+Last progress: 2m0s ago

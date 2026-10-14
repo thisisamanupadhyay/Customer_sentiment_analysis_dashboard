@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+
+
+    Directory: C:\Users\AMAN\.gemini\antigravity\scratch\customer-sentiment-dashboard
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        08-10-2026  11:33 PM                data                                                                 
+
+
+

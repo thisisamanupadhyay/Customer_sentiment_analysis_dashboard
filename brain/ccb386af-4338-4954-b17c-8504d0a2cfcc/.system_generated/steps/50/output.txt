@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+incredible: None
+great: 3.1
+test great: {'neg': 0.0, 'neu': 0.313, 'pos': 0.687, 'compound': 0.6588}
+

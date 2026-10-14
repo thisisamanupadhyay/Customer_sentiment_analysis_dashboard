@@ -1,0 +1,21 @@
+
+The command exited with code 0.
+Output:
+Total reviews: 350
+  Customer_ID  ... Sentiment_Score
+0   CUST-1001  ...           0.625
+1   CUST-1002  ...           0.526
+2   CUST-1003  ...          -0.681
+3   CUST-1004  ...          -0.625
+4   CUST-1005  ...           0.392
+
+[5 rows x 7 columns]
+
+Sentiment summary:
+Sentiment
+Positive    215
+Neutral      75
+Negative     60
+Name: count, dtype: int64
+Avg rating: 3.37
+

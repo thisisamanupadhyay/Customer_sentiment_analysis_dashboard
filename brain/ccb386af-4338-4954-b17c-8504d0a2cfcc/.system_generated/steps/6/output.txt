@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Generated 350 customer reviews successfully at C:\Users\AMAN\.gemini\antigravity\scratch\customer-sentiment-dashboard\data\customer_reviews.csv
+

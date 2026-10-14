@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+Total rows: 350
+Sentiments breakdown:
+ Sentiment
+Positive    215
+Neutral      75
+Negative     60
+Name: count, dtype: int64
+Sample test: ('Neutral', 0.0)
+

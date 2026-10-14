@@ -1,0 +1,19 @@
+Task: ccb386af-4338-4954-b17c-8504d0a2cfcc/task-75
+Status: RUNNING
+Log: C:\Users\AMAN\.gemini\antigravity\brain\ccb386af-4338-4954-b17c-8504d0a2cfcc\.system_generated\tasks\task-75.log
+Log output:
+<truncated 106 lines>
+ndas\core\arrays\datetimes.py", line 2316, in _reduce
+    result = super()._reduce(name, skipna=skipna, keepdims=keepdims, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AMAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\arrays\base.py", line 2375, in _reduce
+    result = meth(skipna=skipna, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AMAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\arrays\datetimelike.py", line 2435, in any
+    return nanops.nanany(self._ndarray, axis=axis, skipna=skipna, mask=self.isna())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AMAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\nanops.py", line 527, in nanany
+    raise TypeError("datetime64 type does not support operation 'any'")
+TypeError: datetime64 type does not support operation 'any'
+
+Last progress: 4m32s ago

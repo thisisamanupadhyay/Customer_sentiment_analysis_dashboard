@@ -1,0 +1,351 @@
+Customer_ID,Review,Rating,Date,Product_Category
+CUST-1001,Sound quality is punchy and deep. Great companion for daily commutes.,4,2024-04-21,Electronics
+CUST-1002,Keeps hot water piping hot for more than 12 hours. Very impressed.,4,2024-01-26,Home & Kitchen
+CUST-1003,Constantly disconnects from Bluetooth. Annoying and frustrating experience.,1,2024-06-11,Electronics
+CUST-1004,Leaked water all over the counter on first run. Absolute waste of money.,1,2024-06-29,Home & Kitchen
+CUST-1005,"Okay product. Doesn't feel moisturizing enough for winter, but fine for summer.",3,2024-01-26,Beauty & Personal Care
+CUST-1006,Keeps hot water piping hot for more than 12 hours. Very impressed.,5,2024-04-23,Home & Kitchen
+CUST-1007,Non-stick coating works wonderfully. Cleaning takes less than a minute.,5,2024-02-12,Home & Kitchen
+CUST-1008,Leaked water all over the counter on first run. Absolute waste of money.,1,2024-06-26,Home & Kitchen
+CUST-1009,Caused a severe allergic rash and redness. Beware if you have sensitive skin.,1,2024-03-17,Beauty & Personal Care
+CUST-1010,"Basic jump rope. Cord gets tangled occasionally, but usable.",4,2024-01-08,Sports & Fitness
+CUST-1011,This coffee maker brews rich espresso in seconds. Best kitchen upgrade!,5,2024-01-12,Home & Kitchen
+CUST-1012,Elegant watch that looks way more expensive than its retail price.,4,2024-03-24,Fashion
+CUST-1013,Fast charging and crystal clear display. Great value for the money.,5,2024-01-15,Electronics
+CUST-1014,Very comfortable for all-day wear. The design is sleek and modern.,5,2024-03-16,Fashion
+CUST-1015,"Okay product. Doesn't feel moisturizing enough for winter, but fine for summer.",4,2024-04-01,Beauty & Personal Care
+CUST-1016,Non-stick coating started peeling off within a month.,1,2024-04-05,Home & Kitchen
+CUST-1017,Sturdy stainless steel finish and very easy to assemble.,4,2024-04-20,Home & Kitchen
+CUST-1018,The toaster works adequately. Browning is slightly uneven across slots.,3,2024-02-07,Home & Kitchen
+CUST-1019,"Did not notice much difference after three weeks, but didn't cause irritation either.",3,2024-03-03,Beauty & Personal Care
+CUST-1020,Shoes caused bad blisters within an hour of walking.,2,2024-05-15,Fashion
+CUST-1021,Gym bag strap ripped when carrying just sneakers and a bottle.,2,2024-04-15,Sports & Fitness
+CUST-1022,Sturdy stainless steel finish and very easy to assemble.,4,2024-05-24,Home & Kitchen
+CUST-1023,"Arrived on time. Setup took a little longer than expected, but works ok.",3,2024-06-23,Electronics
+CUST-1024,It serves its purpose. Neither exceptionally good nor bad.,3,2024-02-16,Home & Kitchen
+CUST-1025,Zipper broke on the third day. Very poor quality craftsmanship.,1,2024-02-13,Fashion
+CUST-1026,Keeps hot water piping hot for more than 12 hours. Very impressed.,5,2024-02-14,Home & Kitchen
+CUST-1027,"Did not notice much difference after three weeks, but didn't cause irritation either.",3,2024-01-21,Beauty & Personal Care
+CUST-1028,Treadmill belt slips continuously. Customer service was unhelpful.,1,2024-06-05,Sports & Fitness
+CUST-1029,"Arrived on time. Setup took a little longer than expected, but works ok.",3,2024-04-07,Electronics
+CUST-1030,"Arrived on time. Setup took a little longer than expected, but works ok.",3,2024-06-07,Electronics
+CUST-1031,Moisturizer leaves my skin soft and hydrated without feeling greasy.,4,2024-06-23,Beauty & Personal Care
+CUST-1032,Resistance band snapped during the first workout. Very unsafe.,1,2024-03-02,Sports & Fitness
+CUST-1033,Yoga mat has excellent grip and ample cushioning for joint support.,5,2024-05-07,Sports & Fitness
+CUST-1034,Stylish sneakers that provide decent arch support. Happy with the purchase.,4,2024-05-29,Fashion
+CUST-1035,"Battery life is outstanding, easily lasts over two days on normal usage.",5,2024-02-06,Electronics
+CUST-1036,Great resistance bands set with clear exercise guidance included.,5,2024-02-29,Sports & Fitness
+CUST-1037,"Did not notice much difference after three weeks, but didn't cause irritation either.",3,2024-04-28,Beauty & Personal Care
+CUST-1038,Leaked water all over the counter on first run. Absolute waste of money.,1,2024-06-12,Home & Kitchen
+CUST-1039,Elegant watch that looks way more expensive than its retail price.,4,2024-03-06,Fashion
+CUST-1040,Size chart is completely inaccurate. The shirt was way too tight.,2,2024-04-27,Fashion
+CUST-1041,It serves its purpose. Neither exceptionally good nor bad.,3,2024-03-06,Home & Kitchen
+CUST-1042,"Basic jump rope. Cord gets tangled occasionally, but usable.",3,2024-06-19,Sports & Fitness
+CUST-1043,Sturdy stainless steel finish and very easy to assemble.,4,2024-01-03,Home & Kitchen
+CUST-1044,Breathable running shorts that dry very fast during heavy workouts.,4,2024-04-29,Sports & Fitness
+CUST-1045,Very lightweight and portable. The keyboard feedback is satisfying.,4,2024-03-14,Electronics
+CUST-1046,Good quality denim. Perfect fit around the waist and very durable.,4,2024-06-22,Fashion
+CUST-1047,Smooth performance and vibrant display. Exceeded my expectations.,5,2024-05-19,Electronics
+CUST-1048,Shoes caused bad blisters within an hour of walking.,1,2024-02-10,Fashion
+CUST-1049,Fabric feels scratchy and cheap. Regret spending money on this.,2,2024-01-19,Fashion
+CUST-1050,Average performance for the price. Works fine for basic web browsing.,3,2024-04-23,Electronics
+CUST-1051,The toaster works adequately. Browning is slightly uneven across slots.,3,2024-03-29,Home & Kitchen
+CUST-1052,Breathable running shorts that dry very fast during heavy workouts.,4,2024-05-30,Sports & Fitness
+CUST-1053,Setup was effortless and it connected right away to all my devices.,4,2024-03-17,Electronics
+CUST-1054,Gym bag strap ripped when carrying just sneakers and a bottle.,1,2024-06-12,Sports & Fitness
+CUST-1055,Shoes caused bad blisters within an hour of walking.,1,2024-04-18,Fashion
+CUST-1056,Setup was effortless and it connected right away to all my devices.,4,2024-06-25,Electronics
+CUST-1057,Very comfortable for all-day wear. The design is sleek and modern.,5,2024-03-05,Fashion
+CUST-1058,It serves its purpose. Neither exceptionally good nor bad.,3,2024-04-26,Home & Kitchen
+CUST-1059,Compact design fits perfectly on my small countertop. Love it!,4,2024-03-18,Home & Kitchen
+CUST-1060,Keeps hot water piping hot for more than 12 hours. Very impressed.,4,2024-02-20,Home & Kitchen
+CUST-1061,Great resistance bands set with clear exercise guidance included.,4,2024-04-08,Sports & Fitness
+CUST-1062,The subtle fragrance is pleasant and lasts throughout the day.,4,2024-05-03,Beauty & Personal Care
+CUST-1063,"Okay product. Doesn't feel moisturizing enough for winter, but fine for summer.",3,2024-01-28,Beauty & Personal Care
+CUST-1064,This coffee maker brews rich espresso in seconds. Best kitchen upgrade!,5,2024-03-01,Home & Kitchen
+CUST-1065,Stopped working after just two weeks of light use. Very disappointed.,1,2024-04-07,Electronics
+CUST-1066,Overheats quickly even during simple tasks. Would not recommend.,1,2024-05-26,Electronics
+CUST-1067,Compact design fits perfectly on my small countertop. Love it!,4,2024-04-01,Home & Kitchen
+CUST-1068,Gentle cleanser that didn't cause any breakouts. Highly recommended.,5,2024-05-27,Beauty & Personal Care
+CUST-1069,The fabric is incredibly soft and breathable. Fits true to size.,5,2024-03-16,Fashion
+CUST-1070,Stylish sneakers that provide decent arch support. Happy with the purchase.,4,2024-06-28,Fashion
+CUST-1071,Size chart is completely inaccurate. The shirt was way too tight.,2,2024-03-16,Fashion
+CUST-1072,Non-stick coating works wonderfully. Cleaning takes less than a minute.,5,2024-01-06,Home & Kitchen
+CUST-1073,Elegant watch that looks way more expensive than its retail price.,5,2024-06-17,Fashion
+CUST-1074,Fabric feels scratchy and cheap. Regret spending money on this.,1,2024-04-11,Fashion
+CUST-1075,Fast charging and crystal clear display. Great value for the money.,5,2024-03-11,Electronics
+CUST-1076,"Battery life is outstanding, easily lasts over two days on normal usage.",5,2024-01-03,Electronics
+CUST-1077,Pump mechanism arrived broken and unusable. No replacement offered.,2,2024-05-24,Beauty & Personal Care
+CUST-1078,Non-stick coating works wonderfully. Cleaning takes less than a minute.,5,2024-06-24,Home & Kitchen
+CUST-1079,Caused a severe allergic rash and redness. Beware if you have sensitive skin.,1,2024-01-13,Beauty & Personal Care
+CUST-1080,Color washed out completely after the very first wash. Terrible dye.,2,2024-06-04,Fashion
+CUST-1081,Sturdy stainless steel finish and very easy to assemble.,4,2024-05-07,Home & Kitchen
+CUST-1082,Constantly disconnects from Bluetooth. Annoying and frustrating experience.,2,2024-03-14,Electronics
+CUST-1083,Charger cable frayed near the connector after twenty days.,2,2024-02-28,Electronics
+CUST-1084,Stopped working after just two weeks of light use. Very disappointed.,1,2024-06-04,Electronics
+CUST-1085,"Basic jump rope. Cord gets tangled occasionally, but usable.",3,2024-03-31,Sports & Fitness
+CUST-1086,Fabric feels scratchy and cheap. Regret spending money on this.,2,2024-02-26,Fashion
+CUST-1087,Compact design fits perfectly on my small countertop. Love it!,4,2024-06-11,Home & Kitchen
+CUST-1088,Pump mechanism arrived broken and unusable. No replacement offered.,2,2024-02-18,Beauty & Personal Care
+CUST-1089,Good quality denim. Perfect fit around the waist and very durable.,4,2024-06-07,Fashion
+CUST-1090,Treadmill belt slips continuously. Customer service was unhelpful.,2,2024-03-05,Sports & Fitness
+CUST-1091,Camera quality in daylight is crisp and color accurate.,4,2024-06-22,Electronics
+CUST-1092,Charger cable frayed near the connector after twenty days.,2,2024-06-17,Electronics
+CUST-1093,Fabric feels scratchy and cheap. Regret spending money on this.,2,2024-06-23,Fashion
+CUST-1094,Noticeable improvement in skin texture within two weeks of use.,5,2024-02-05,Beauty & Personal Care
+CUST-1095,Dumbbells are sturdy with a comfortable non-slip rubber grip.,5,2024-06-09,Sports & Fitness
+CUST-1096,This coffee maker brews rich espresso in seconds. Best kitchen upgrade!,5,2024-01-25,Home & Kitchen
+CUST-1097,"Comfortable enough for short errands, but wouldn't wear it for long walks.",3,2024-06-09,Fashion
+CUST-1098,"Did not notice much difference after three weeks, but didn't cause irritation either.",3,2024-06-14,Beauty & Personal Care
+CUST-1099,Yoga mat has excellent grip and ample cushioning for joint support.,5,2024-01-11,Sports & Fitness
+CUST-1100,Non-stick coating works wonderfully. Cleaning takes less than a minute.,5,2024-03-20,Home & Kitchen
+CUST-1101,Good quality denim. Perfect fit around the waist and very durable.,4,2024-04-22,Fashion
+CUST-1102,Fabric feels scratchy and cheap. Regret spending money on this.,1,2024-01-09,Fashion
+CUST-1103,Dumbbells are sturdy with a comfortable non-slip rubber grip.,5,2024-05-28,Sports & Fitness
+CUST-1104,Camera quality in daylight is crisp and color accurate.,4,2024-04-03,Electronics
+CUST-1105,Leaked water all over the counter on first run. Absolute waste of money.,1,2024-02-03,Home & Kitchen
+CUST-1106,"Did not notice much difference after three weeks, but didn't cause irritation either.",3,2024-01-24,Beauty & Personal Care
+CUST-1107,Constantly disconnects from Bluetooth. Annoying and frustrating experience.,1,2024-03-16,Electronics
+CUST-1108,Setup was effortless and it connected right away to all my devices.,4,2024-03-24,Electronics
+CUST-1109,Battery drains in barely three hours. Definitely not as advertised.,1,2024-04-16,Electronics
+CUST-1110,Fast charging and crystal clear display. Great value for the money.,5,2024-02-14,Electronics
+CUST-1111,Fast charging and crystal clear display. Great value for the money.,5,2024-02-21,Electronics
+CUST-1112,Fabric feels scratchy and cheap. Regret spending money on this.,1,2024-02-03,Fashion
+CUST-1113,"Smelled terrible, almost like spoiled chemicals. Threw it away.",2,2024-05-18,Beauty & Personal Care
+CUST-1114,Dumbbells are sturdy with a comfortable non-slip rubber grip.,5,2024-04-03,Sports & Fitness
+CUST-1115,Setup was effortless and it connected right away to all my devices.,4,2024-05-15,Electronics
+CUST-1116,The subtle fragrance is pleasant and lasts throughout the day.,4,2024-05-08,Beauty & Personal Care
+CUST-1117,Charger cable frayed near the connector after twenty days.,2,2024-03-10,Electronics
+CUST-1118,Color washed out completely after the very first wash. Terrible dye.,1,2024-02-12,Fashion
+CUST-1119,Moderate grip on the yoga mat. Works well enough for casual home stretching.,3,2024-03-06,Sports & Fitness
+CUST-1120,Very lightweight and portable. The keyboard feedback is satisfying.,4,2024-05-03,Electronics
+CUST-1121,Sound quality is punchy and deep. Great companion for daily commutes.,4,2024-03-16,Electronics
+CUST-1122,Moisturizer leaves my skin soft and hydrated without feeling greasy.,5,2024-03-27,Beauty & Personal Care
+CUST-1123,Dumbbells are sturdy with a comfortable non-slip rubber grip.,5,2024-01-30,Sports & Fitness
+CUST-1124,Dumbbells are sturdy with a comfortable non-slip rubber grip.,5,2024-04-29,Sports & Fitness
+CUST-1125,Constantly disconnects from Bluetooth. Annoying and frustrating experience.,1,2024-01-20,Electronics
+CUST-1126,The noise cancellation on these headphones is truly top tier. Highly recommended!,5,2024-02-06,Electronics
+CUST-1127,Gentle cleanser that didn't cause any breakouts. Highly recommended.,5,2024-02-27,Beauty & Personal Care
+CUST-1128,Dumbbells are sturdy with a comfortable non-slip rubber grip.,5,2024-06-22,Sports & Fitness
+CUST-1129,Compact design fits perfectly on my small countertop. Love it!,4,2024-06-21,Home & Kitchen
+CUST-1130,"Decent build quality, but audio volume could have been slightly louder.",3,2024-04-11,Electronics
+CUST-1131,Treadmill belt slips continuously. Customer service was unhelpful.,1,2024-05-22,Sports & Fitness
+CUST-1132,Fabric feels scratchy and cheap. Regret spending money on this.,1,2024-04-03,Fashion
+CUST-1133,Shoes caused bad blisters within an hour of walking.,1,2024-01-24,Fashion
+CUST-1134,Compact design fits perfectly on my small countertop. Love it!,4,2024-04-11,Home & Kitchen
+CUST-1135,Elegant watch that looks way more expensive than its retail price.,5,2024-01-04,Fashion
+CUST-1136,Dumbbells are sturdy with a comfortable non-slip rubber grip.,5,2024-03-08,Sports & Fitness
+CUST-1137,Elegant watch that looks way more expensive than its retail price.,5,2024-05-17,Fashion
+CUST-1138,Color washed out completely after the very first wash. Terrible dye.,2,2024-02-01,Fashion
+CUST-1139,Noticeable improvement in skin texture within two weeks of use.,5,2024-04-26,Beauty & Personal Care
+CUST-1140,Fast charging and crystal clear display. Great value for the money.,5,2024-04-04,Electronics
+CUST-1141,"Basic jump rope. Cord gets tangled occasionally, but usable.",3,2024-06-21,Sports & Fitness
+CUST-1142,The subtle fragrance is pleasant and lasts throughout the day.,4,2024-06-21,Beauty & Personal Care
+CUST-1143,Fast charging and crystal clear display. Great value for the money.,5,2024-03-08,Electronics
+CUST-1144,Keeps hot water piping hot for more than 12 hours. Very impressed.,5,2024-05-29,Home & Kitchen
+CUST-1145,Compact design fits perfectly on my small countertop. Love it!,4,2024-04-07,Home & Kitchen
+CUST-1146,"Okay product. Doesn't feel moisturizing enough for winter, but fine for summer.",3,2024-06-12,Beauty & Personal Care
+CUST-1147,"Excellent jacket, keeps me warm without feeling bulky or heavy.",5,2024-04-05,Fashion
+CUST-1148,Breathable running shorts that dry very fast during heavy workouts.,4,2024-01-28,Sports & Fitness
+CUST-1149,Extremely drying formula that made my skin flaky.,2,2024-06-21,Beauty & Personal Care
+CUST-1150,Great resistance bands set with clear exercise guidance included.,4,2024-02-29,Sports & Fitness
+CUST-1151,Blender handles frozen fruit with zero effort. Smooth smoothies every morning.,5,2024-04-30,Home & Kitchen
+CUST-1152,Fast charging and crystal clear display. Great value for the money.,5,2024-01-07,Electronics
+CUST-1153,Stylish sneakers that provide decent arch support. Happy with the purchase.,4,2024-06-07,Fashion
+CUST-1154,"Excellent build quality, feels very premium and solid in hand.",5,2024-05-23,Electronics
+CUST-1155,"Water bottle is okay. Doesn't leak, but doesn't keep ice cold very long.",3,2024-03-24,Sports & Fitness
+CUST-1156,Fast charging and crystal clear display. Great value for the money.,5,2024-06-05,Electronics
+CUST-1157,Smooth performance and vibrant display. Exceeded my expectations.,5,2024-02-26,Electronics
+CUST-1158,Non-stick coating started peeling off within a month.,1,2024-06-14,Home & Kitchen
+CUST-1159,Fast charging and crystal clear display. Great value for the money.,5,2024-01-17,Electronics
+CUST-1160,"Smelled terrible, almost like spoiled chemicals. Threw it away.",1,2024-06-11,Beauty & Personal Care
+CUST-1161,Caused a severe allergic rash and redness. Beware if you have sensitive skin.,1,2024-04-28,Beauty & Personal Care
+CUST-1162,Moderate grip on the yoga mat. Works well enough for casual home stretching.,3,2024-06-28,Sports & Fitness
+CUST-1163,The noise cancellation on these headphones is truly top tier. Highly recommended!,5,2024-03-18,Electronics
+CUST-1164,Handle broke off while lifting the pot. Dangerous and poorly built.,1,2024-06-15,Home & Kitchen
+CUST-1165,"Water bottle is okay. Doesn't leak, but doesn't keep ice cold very long.",3,2024-04-14,Sports & Fitness
+CUST-1166,"Cleaning is somewhat tedious, but the appliance works as described.",3,2024-01-30,Home & Kitchen
+CUST-1167,Very comfortable for all-day wear. The design is sleek and modern.,4,2024-02-05,Fashion
+CUST-1168,Charger cable frayed near the connector after twenty days.,2,2024-01-12,Electronics
+CUST-1169,"Does what it says on the box. Nothing extraordinary, nothing broken.",2,2024-01-10,Electronics
+CUST-1170,"Water bottle is okay. Doesn't leak, but doesn't keep ice cold very long.",3,2024-03-18,Sports & Fitness
+CUST-1171,"Cleaning is somewhat tedious, but the appliance works as described.",3,2024-05-06,Home & Kitchen
+CUST-1172,"Did not notice much difference after three weeks, but didn't cause irritation either.",3,2024-01-30,Beauty & Personal Care
+CUST-1173,Very comfortable for all-day wear. The design is sleek and modern.,5,2024-01-25,Fashion
+CUST-1174,Average performance for the price. Works fine for basic web browsing.,4,2024-03-01,Electronics
+CUST-1175,Compact design fits perfectly on my small countertop. Love it!,4,2024-05-17,Home & Kitchen
+CUST-1176,Fast charging and crystal clear display. Great value for the money.,5,2024-02-04,Electronics
+CUST-1177,Treadmill belt slips continuously. Customer service was unhelpful.,1,2024-04-09,Sports & Fitness
+CUST-1178,"Cleaning is somewhat tedious, but the appliance works as described.",3,2024-04-26,Home & Kitchen
+CUST-1179,This coffee maker brews rich espresso in seconds. Best kitchen upgrade!,5,2024-04-04,Home & Kitchen
+CUST-1180,"Decent build quality, but audio volume could have been slightly louder.",3,2024-06-20,Electronics
+CUST-1181,Average lotion. The scent is neutral and absorbs in normal time.,3,2024-06-27,Beauty & Personal Care
+CUST-1182,Dumbbells are sturdy with a comfortable non-slip rubber grip.,5,2024-05-18,Sports & Fitness
+CUST-1183,Sturdy stainless steel finish and very easy to assemble.,4,2024-04-17,Home & Kitchen
+CUST-1184,Non-stick coating started peeling off within a month.,1,2024-05-30,Home & Kitchen
+CUST-1185,"Did not notice much difference after three weeks, but didn't cause irritation either.",3,2024-02-09,Beauty & Personal Care
+CUST-1186,"Okay product. Doesn't feel moisturizing enough for winter, but fine for summer.",3,2024-04-16,Beauty & Personal Care
+CUST-1187,The subtle fragrance is pleasant and lasts throughout the day.,4,2024-06-16,Beauty & Personal Care
+CUST-1188,The fabric is incredibly soft and breathable. Fits true to size.,5,2024-01-26,Fashion
+CUST-1189,Keeps hot water piping hot for more than 12 hours. Very impressed.,5,2024-05-05,Home & Kitchen
+CUST-1190,Shoes caused bad blisters within an hour of walking.,1,2024-06-06,Fashion
+CUST-1191,Average performance for the price. Works fine for basic web browsing.,3,2024-04-14,Electronics
+CUST-1192,Stopped working after just two weeks of light use. Very disappointed.,2,2024-03-12,Electronics
+CUST-1193,Zipper broke on the third day. Very poor quality craftsmanship.,1,2024-01-09,Fashion
+CUST-1194,Very comfortable for all-day wear. The design is sleek and modern.,5,2024-06-25,Fashion
+CUST-1195,Moderate grip on the yoga mat. Works well enough for casual home stretching.,3,2024-04-04,Sports & Fitness
+CUST-1196,Constantly disconnects from Bluetooth. Annoying and frustrating experience.,1,2024-02-25,Electronics
+CUST-1197,Fast charging and crystal clear display. Great value for the money.,5,2024-04-23,Electronics
+CUST-1198,Compact design fits perfectly on my small countertop. Love it!,4,2024-04-23,Home & Kitchen
+CUST-1199,Very lightweight and portable. The keyboard feedback is satisfying.,4,2024-03-01,Electronics
+CUST-1200,Dumbbells are sturdy with a comfortable non-slip rubber grip.,5,2024-04-02,Sports & Fitness
+CUST-1201,"Excellent build quality, feels very premium and solid in hand.",5,2024-01-26,Electronics
+CUST-1202,Breathable running shorts that dry very fast during heavy workouts.,4,2024-06-24,Sports & Fitness
+CUST-1203,Fast charging and crystal clear display. Great value for the money.,5,2024-04-04,Electronics
+CUST-1204,Very comfortable for all-day wear. The design is sleek and modern.,4,2024-05-19,Fashion
+CUST-1205,Elegant watch that looks way more expensive than its retail price.,5,2024-06-14,Fashion
+CUST-1206,Average performance for the price. Works fine for basic web browsing.,3,2024-04-01,Electronics
+CUST-1207,Size chart is completely inaccurate. The shirt was way too tight.,2,2024-01-16,Fashion
+CUST-1208,It serves its purpose. Neither exceptionally good nor bad.,3,2024-04-11,Home & Kitchen
+CUST-1209,Gym bag strap ripped when carrying just sneakers and a bottle.,1,2024-03-11,Sports & Fitness
+CUST-1210,Gym bag strap ripped when carrying just sneakers and a bottle.,2,2024-02-18,Sports & Fitness
+CUST-1211,Size chart is completely inaccurate. The shirt was way too tight.,2,2024-02-01,Fashion
+CUST-1212,Battery drains in barely three hours. Definitely not as advertised.,1,2024-04-26,Electronics
+CUST-1213,Foam roller cracked in half under normal body weight.,1,2024-01-24,Sports & Fitness
+CUST-1214,Breathable running shorts that dry very fast during heavy workouts.,4,2024-06-18,Sports & Fitness
+CUST-1215,"Excellent jacket, keeps me warm without feeling bulky or heavy.",5,2024-02-24,Fashion
+CUST-1216,Average lotion. The scent is neutral and absorbs in normal time.,3,2024-06-13,Beauty & Personal Care
+CUST-1217,Keeps hot water piping hot for more than 12 hours. Very impressed.,4,2024-06-12,Home & Kitchen
+CUST-1218,Yoga mat has excellent grip and ample cushioning for joint support.,5,2024-06-01,Sports & Fitness
+CUST-1219,Average performance for the price. Works fine for basic web browsing.,3,2024-01-06,Electronics
+CUST-1220,The fabric is incredibly soft and breathable. Fits true to size.,5,2024-01-13,Fashion
+CUST-1221,Camera quality in daylight is crisp and color accurate.,4,2024-03-26,Electronics
+CUST-1222,"Does what it says on the box. Nothing extraordinary, nothing broken.",3,2024-03-03,Electronics
+CUST-1223,Dumbbells are sturdy with a comfortable non-slip rubber grip.,5,2024-02-02,Sports & Fitness
+CUST-1224,Gentle cleanser that didn't cause any breakouts. Highly recommended.,4,2024-05-24,Beauty & Personal Care
+CUST-1225,Smooth performance and vibrant display. Exceeded my expectations.,4,2024-02-22,Electronics
+CUST-1226,Looks okay in person. Material is a bit thinner than shown in product photos.,3,2024-01-18,Fashion
+CUST-1227,Gym bag strap ripped when carrying just sneakers and a bottle.,1,2024-05-21,Sports & Fitness
+CUST-1228,Sturdy stainless steel finish and very easy to assemble.,4,2024-02-23,Home & Kitchen
+CUST-1229,Gentle cleanser that didn't cause any breakouts. Highly recommended.,4,2024-05-30,Beauty & Personal Care
+CUST-1230,"Smelled terrible, almost like spoiled chemicals. Threw it away.",1,2024-02-25,Beauty & Personal Care
+CUST-1231,Moisturizer leaves my skin soft and hydrated without feeling greasy.,5,2024-02-29,Beauty & Personal Care
+CUST-1232,Moderate grip on the yoga mat. Works well enough for casual home stretching.,3,2024-03-25,Sports & Fitness
+CUST-1233,Great resistance bands set with clear exercise guidance included.,4,2024-02-07,Sports & Fitness
+CUST-1234,"Okay product. Doesn't feel moisturizing enough for winter, but fine for summer.",3,2024-06-01,Beauty & Personal Care
+CUST-1235,Elegant watch that looks way more expensive than its retail price.,5,2024-01-01,Fashion
+CUST-1236,"Battery life is outstanding, easily lasts over two days on normal usage.",5,2024-03-11,Electronics
+CUST-1237,The toaster works adequately. Browning is slightly uneven across slots.,2,2024-02-07,Home & Kitchen
+CUST-1238,Setup was effortless and it connected right away to all my devices.,4,2024-02-03,Electronics
+CUST-1239,Sturdy stainless steel finish and very easy to assemble.,4,2024-05-18,Home & Kitchen
+CUST-1240,The fabric is incredibly soft and breathable. Fits true to size.,5,2024-03-05,Fashion
+CUST-1241,Compact design fits perfectly on my small countertop. Love it!,4,2024-02-14,Home & Kitchen
+CUST-1242,Foam roller cracked in half under normal body weight.,1,2024-01-29,Sports & Fitness
+CUST-1243,Camera quality in daylight is crisp and color accurate.,4,2024-06-18,Electronics
+CUST-1244,Constantly disconnects from Bluetooth. Annoying and frustrating experience.,2,2024-01-07,Electronics
+CUST-1245,"Does what it says on the box. Nothing extraordinary, nothing broken.",3,2024-02-03,Electronics
+CUST-1246,The fabric is incredibly soft and breathable. Fits true to size.,5,2024-01-04,Fashion
+CUST-1247,The subtle fragrance is pleasant and lasts throughout the day.,4,2024-04-01,Beauty & Personal Care
+CUST-1248,Moderate grip on the yoga mat. Works well enough for casual home stretching.,3,2024-03-01,Sports & Fitness
+CUST-1249,Sound quality is punchy and deep. Great companion for daily commutes.,4,2024-05-30,Electronics
+CUST-1250,Very lightweight and portable. The keyboard feedback is satisfying.,4,2024-03-23,Electronics
+CUST-1251,"Decent build quality, but audio volume could have been slightly louder.",3,2024-01-05,Electronics
+CUST-1252,Battery drains in barely three hours. Definitely not as advertised.,1,2024-02-14,Electronics
+CUST-1253,"Lid doesn't seal properly, causing steam and liquid to spill out.",2,2024-03-08,Home & Kitchen
+CUST-1254,Moderate grip on the yoga mat. Works well enough for casual home stretching.,3,2024-01-14,Sports & Fitness
+CUST-1255,The toaster works adequately. Browning is slightly uneven across slots.,3,2024-02-02,Home & Kitchen
+CUST-1256,Caused a severe allergic rash and redness. Beware if you have sensitive skin.,2,2024-04-17,Beauty & Personal Care
+CUST-1257,Poor audio clarity and significant background hiss during calls.,2,2024-05-14,Electronics
+CUST-1258,Sound quality is punchy and deep. Great companion for daily commutes.,4,2024-01-30,Electronics
+CUST-1259,Foam roller cracked in half under normal body weight.,2,2024-01-17,Sports & Fitness
+CUST-1260,Gentle cleanser that didn't cause any breakouts. Highly recommended.,5,2024-05-01,Beauty & Personal Care
+CUST-1261,Elegant watch that looks way more expensive than its retail price.,4,2024-04-24,Fashion
+CUST-1262,Moderate grip on the yoga mat. Works well enough for casual home stretching.,3,2024-04-02,Sports & Fitness
+CUST-1263,Keeps hot water piping hot for more than 12 hours. Very impressed.,5,2024-05-11,Home & Kitchen
+CUST-1264,Gentle cleanser that didn't cause any breakouts. Highly recommended.,5,2024-05-31,Beauty & Personal Care
+CUST-1265,Gentle cleanser that didn't cause any breakouts. Highly recommended.,5,2024-01-28,Beauty & Personal Care
+CUST-1266,"Okay product. Doesn't feel moisturizing enough for winter, but fine for summer.",3,2024-04-25,Beauty & Personal Care
+CUST-1267,Smooth performance and vibrant display. Exceeded my expectations.,5,2024-05-08,Electronics
+CUST-1268,It serves its purpose. Neither exceptionally good nor bad.,3,2024-02-26,Home & Kitchen
+CUST-1269,Treadmill belt slips continuously. Customer service was unhelpful.,2,2024-06-06,Sports & Fitness
+CUST-1270,"Excellent jacket, keeps me warm without feeling bulky or heavy.",5,2024-01-12,Fashion
+CUST-1271,Fast charging and crystal clear display. Great value for the money.,5,2024-06-17,Electronics
+CUST-1272,Overheats quickly even during simple tasks. Would not recommend.,2,2024-05-13,Electronics
+CUST-1273,Compact design fits perfectly on my small countertop. Love it!,4,2024-03-18,Home & Kitchen
+CUST-1274,Sound quality is punchy and deep. Great companion for daily commutes.,4,2024-04-27,Electronics
+CUST-1275,Looks okay in person. Material is a bit thinner than shown in product photos.,4,2024-06-13,Fashion
+CUST-1276,Noticeable improvement in skin texture within two weeks of use.,5,2024-01-08,Beauty & Personal Care
+CUST-1277,Fabric feels scratchy and cheap. Regret spending money on this.,2,2024-01-16,Fashion
+CUST-1278,Gym bag strap ripped when carrying just sneakers and a bottle.,1,2024-05-02,Sports & Fitness
+CUST-1279,Treadmill belt slips continuously. Customer service was unhelpful.,1,2024-04-12,Sports & Fitness
+CUST-1280,"Battery life is outstanding, easily lasts over two days on normal usage.",5,2024-04-19,Electronics
+CUST-1281,The noise cancellation on these headphones is truly top tier. Highly recommended!,4,2024-06-24,Electronics
+CUST-1282,Very lightweight and portable. The keyboard feedback is satisfying.,4,2024-01-28,Electronics
+CUST-1283,"Water bottle is okay. Doesn't leak, but doesn't keep ice cold very long.",4,2024-05-05,Sports & Fitness
+CUST-1284,"Comfortable enough for short errands, but wouldn't wear it for long walks.",4,2024-04-23,Fashion
+CUST-1285,Elegant watch that looks way more expensive than its retail price.,5,2024-01-19,Fashion
+CUST-1286,Looks okay in person. Material is a bit thinner than shown in product photos.,3,2024-01-21,Fashion
+CUST-1287,"Battery life is outstanding, easily lasts over two days on normal usage.",5,2024-03-23,Electronics
+CUST-1288,Compact design fits perfectly on my small countertop. Love it!,4,2024-06-04,Home & Kitchen
+CUST-1289,Loved the color and stitching quality! Got several compliments at work.,5,2024-02-07,Fashion
+CUST-1290,Blender handles frozen fruit with zero effort. Smooth smoothies every morning.,5,2024-01-17,Home & Kitchen
+CUST-1291,Moderate grip on the yoga mat. Works well enough for casual home stretching.,2,2024-02-02,Sports & Fitness
+CUST-1292,Very lightweight and portable. The keyboard feedback is satisfying.,4,2024-03-11,Electronics
+CUST-1293,Very lightweight and portable. The keyboard feedback is satisfying.,4,2024-06-08,Electronics
+CUST-1294,"Excellent build quality, feels very premium and solid in hand.",4,2024-06-11,Electronics
+CUST-1295,Size chart is completely inaccurate. The shirt was way too tight.,2,2024-05-29,Fashion
+CUST-1296,The subtle fragrance is pleasant and lasts throughout the day.,4,2024-05-20,Beauty & Personal Care
+CUST-1297,Blender handles frozen fruit with zero effort. Smooth smoothies every morning.,4,2024-03-24,Home & Kitchen
+CUST-1298,Gentle cleanser that didn't cause any breakouts. Highly recommended.,5,2024-04-07,Beauty & Personal Care
+CUST-1299,"Excellent build quality, feels very premium and solid in hand.",5,2024-06-01,Electronics
+CUST-1300,Loved the color and stitching quality! Got several compliments at work.,5,2024-05-15,Fashion
+CUST-1301,Motor started smelling like burnt plastic after five minutes of blending.,1,2024-03-16,Home & Kitchen
+CUST-1302,"Did not notice much difference after three weeks, but didn't cause irritation either.",3,2024-04-26,Beauty & Personal Care
+CUST-1303,Average lotion. The scent is neutral and absorbs in normal time.,3,2024-05-09,Beauty & Personal Care
+CUST-1304,Screen arrived with a dead pixel line. Return process was painful.,1,2024-06-03,Electronics
+CUST-1305,Non-stick coating works wonderfully. Cleaning takes less than a minute.,5,2024-04-20,Home & Kitchen
+CUST-1306,"Basic jump rope. Cord gets tangled occasionally, but usable.",3,2024-01-26,Sports & Fitness
+CUST-1307,Camera quality in daylight is crisp and color accurate.,4,2024-06-28,Electronics
+CUST-1308,"Arrived on time. Setup took a little longer than expected, but works ok.",3,2024-01-30,Electronics
+CUST-1309,"Does what it says on the box. Nothing extraordinary, nothing broken.",3,2024-06-16,Electronics
+CUST-1310,Noticeable improvement in skin texture within two weeks of use.,5,2024-06-15,Beauty & Personal Care
+CUST-1311,Good quality denim. Perfect fit around the waist and very durable.,4,2024-05-21,Fashion
+CUST-1312,The subtle fragrance is pleasant and lasts throughout the day.,4,2024-02-25,Beauty & Personal Care
+CUST-1313,Camera quality in daylight is crisp and color accurate.,4,2024-04-20,Electronics
+CUST-1314,Breathable running shorts that dry very fast during heavy workouts.,4,2024-04-25,Sports & Fitness
+CUST-1315,"Comfortable enough for short errands, but wouldn't wear it for long walks.",2,2024-02-28,Fashion
+CUST-1316,Good quality denim. Perfect fit around the waist and very durable.,4,2024-04-15,Fashion
+CUST-1317,Constantly disconnects from Bluetooth. Annoying and frustrating experience.,1,2024-03-27,Electronics
+CUST-1318,Setup was effortless and it connected right away to all my devices.,4,2024-04-26,Electronics
+CUST-1319,Blender handles frozen fruit with zero effort. Smooth smoothies every morning.,5,2024-04-12,Home & Kitchen
+CUST-1320,The toaster works adequately. Browning is slightly uneven across slots.,3,2024-04-16,Home & Kitchen
+CUST-1321,Color washed out completely after the very first wash. Terrible dye.,1,2024-01-25,Fashion
+CUST-1322,The noise cancellation on these headphones is truly top tier. Highly recommended!,5,2024-03-21,Electronics
+CUST-1323,Poor audio clarity and significant background hiss during calls.,2,2024-04-19,Electronics
+CUST-1324,"Water bottle is okay. Doesn't leak, but doesn't keep ice cold very long.",3,2024-03-21,Sports & Fitness
+CUST-1325,Leaked water all over the counter on first run. Absolute waste of money.,1,2024-06-19,Home & Kitchen
+CUST-1326,Leaked water all over the counter on first run. Absolute waste of money.,1,2024-03-06,Home & Kitchen
+CUST-1327,"Basic jump rope. Cord gets tangled occasionally, but usable.",3,2024-04-05,Sports & Fitness
+CUST-1328,Sturdy stainless steel finish and very easy to assemble.,4,2024-02-09,Home & Kitchen
+CUST-1329,Compact design fits perfectly on my small countertop. Love it!,4,2024-06-24,Home & Kitchen
+CUST-1330,Screen arrived with a dead pixel line. Return process was painful.,1,2024-05-01,Electronics
+CUST-1331,Non-stick coating works wonderfully. Cleaning takes less than a minute.,5,2024-01-18,Home & Kitchen
+CUST-1332,Smooth performance and vibrant display. Exceeded my expectations.,4,2024-01-24,Electronics
+CUST-1333,Sturdy stainless steel finish and very easy to assemble.,4,2024-01-22,Home & Kitchen
+CUST-1334,The noise cancellation on these headphones is truly top tier. Highly recommended!,5,2024-01-24,Electronics
+CUST-1335,Leaked water all over the counter on first run. Absolute waste of money.,1,2024-04-20,Home & Kitchen
+CUST-1336,Pump mechanism arrived broken and unusable. No replacement offered.,1,2024-01-25,Beauty & Personal Care
+CUST-1337,"Arrived on time. Setup took a little longer than expected, but works ok.",3,2024-04-05,Electronics
+CUST-1338,Foam roller cracked in half under normal body weight.,1,2024-02-03,Sports & Fitness
+CUST-1339,"Does what it says on the box. Nothing extraordinary, nothing broken.",3,2024-05-22,Electronics
+CUST-1340,Looks okay in person. Material is a bit thinner than shown in product photos.,3,2024-01-16,Fashion
+CUST-1341,Size chart is completely inaccurate. The shirt was way too tight.,2,2024-05-30,Fashion
+CUST-1342,Stopped working after just two weeks of light use. Very disappointed.,2,2024-05-23,Electronics
+CUST-1343,Very lightweight and portable. The keyboard feedback is satisfying.,4,2024-05-23,Electronics
+CUST-1344,Dumbbells are sturdy with a comfortable non-slip rubber grip.,4,2024-03-25,Sports & Fitness
+CUST-1345,Sound quality is punchy and deep. Great companion for daily commutes.,4,2024-06-20,Electronics
+CUST-1346,Charger cable frayed near the connector after twenty days.,2,2024-02-01,Electronics
+CUST-1347,Sturdy stainless steel finish and very easy to assemble.,4,2024-04-15,Home & Kitchen
+CUST-1348,It serves its purpose. Neither exceptionally good nor bad.,3,2024-03-31,Home & Kitchen
+CUST-1349,Yoga mat has excellent grip and ample cushioning for joint support.,5,2024-06-19,Sports & Fitness
+CUST-1350,"Fit is acceptable. Fabric quality is decent, about what you expect for this price point.",3,2024-04-18,Fashion

@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+awesome in vader: 3.1
+poor in vader: -2.1
+

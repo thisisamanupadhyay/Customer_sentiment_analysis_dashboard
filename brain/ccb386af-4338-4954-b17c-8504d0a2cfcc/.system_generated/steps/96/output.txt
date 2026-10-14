@@ -1,0 +1,23 @@
+The following changes were made by the replace_file_content tool to: C:\Users\AMAN\.gemini\antigravity\scratch\customer-sentiment-dashboard\app.py. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -161,7 +161,7 @@
+ )
+ 
+ # Filter 3: Rating (if ratings exist)
+-if df["Rating"].dropna().any():
++if not df["Rating"].dropna().empty:
+     valid_ratings = sorted([int(r) for r in df["Rating"].dropna().unique() if r in [1, 2, 3, 4, 5]])
+     if valid_ratings:
+         selected_ratings = st.sidebar.multiselect(
+@@ -175,7 +175,7 @@
+     selected_ratings = None
+ 
+ # Filter 4: Date Range (if valid dates exist)
+-if "Date" in df.columns and df["Date"].dropna().any():
++if "Date" in df.columns and not df["Date"].dropna().empty:
+     min_date = df["Date"].min().date()
+     max_date = df["Date"].max().date()
+     date_range = st.sidebar.date_input(
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.
